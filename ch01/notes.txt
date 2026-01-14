@@ -1,0 +1,5 @@
+Chapter 1, titled "Getting Started," is about how to install the Python programming language and a text editor called Sublime Text on your computer. It shows the process for installing on Windows, macOS, and Linux.
+
+One useful thing that I learned that I didn't know before is the shortcut command to open a terminal window within Linux. If you press together CTRL + ALT + T, that will open a terminal window in Linux Mint.
+
+Near the end of this chapter, there are instructions for a Hello World program in Python.
